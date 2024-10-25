@@ -1,0 +1,17 @@
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+    background-color: red;
+    color: #fff;
+}
+.App button{
+    padding: 1rem;
+    outline: none;
+    border: none;
+    border-radius: .5rem;
+    background-color: orange;
+    color: #fff;
+}
